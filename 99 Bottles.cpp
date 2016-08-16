@@ -1,6 +1,6 @@
 //
-//  main.cpp
-//  99bottles
+//  99Bottles.cpp
+//  
 //
 //  Created by AM on 8/16/16.
 //  Copyright © 2016 AM. All rights reserved.
