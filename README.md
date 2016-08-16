@@ -1,2 +1,2 @@
-# 99-Bottles
+# 99-Bottles.cpp
 Creating a program involving 99 Bottles using C++
